@@ -1,0 +1,5 @@
+node_modules/
+yarn.lock
+script.js
+package.json
+cli/
