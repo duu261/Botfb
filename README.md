@@ -15,5 +15,3 @@
 # B3: Nhập mv -f appstate.json node_modules/accountbot (dịch chuyển appstate vô tệp để ẩn appstate)
 # B4: vô config.js thay đầu nhận appstate.json thành node_modules/accountbot/appstate.json
 #
-#
-# Có gì không hiểu ib zalo: 0969733109
